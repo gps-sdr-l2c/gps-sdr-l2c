@@ -1,4 +1,4 @@
-#gps-sdr-l2c
+gps-sdr-l2c
 ===========
 by Xin Zhang,  
 Shanghai Jiao Tong University, CN  
